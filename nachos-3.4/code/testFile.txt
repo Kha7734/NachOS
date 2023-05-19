@@ -1,0 +1,1 @@
+Almost functions is used to check whether the given type is the appropriate type or not (for example, is use to check the pointer type). Their parameters are the single ones and check if T is the right type. 
